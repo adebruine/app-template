@@ -64,3 +64,4 @@ Bootstrap issues
 
 The app-template can automatically setup your Github repo with our default labels and tickets by running ``fab issues.bootstrap``. You will be prompted for your Github username and password.
 
+# new-proj-fun
